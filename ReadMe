@@ -1,0 +1,3 @@
+A very simple demo code for eye blink detection with dlib libray with python, 
+Note this project is basically dependent on the library dlib. The methods used in the demo code is introduced in Paper. 
+This code is based on the blogEye blink detection with OpenCV, Python, and dlib
